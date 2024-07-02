@@ -1,0 +1,80 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    text-align: center;
+}
+
+h1,
+h2,
+h3 {
+    color: rgb(91, 189, 231);
+}
+
+.contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.git-link {
+    display: flex;
+    justify-content: space-between;
+}
+
+.main {
+    padding: 67px;
+    height: 1000px;
+    border: 7px solid black;
+    margin: auto;
+}
+
+.list {
+    list-style: none;
+}
+
+.inline {
+    display: inline;
+}
+
+.list li {
+    display: inline;
+}
+
+.inline {
+    display: inline;
+}
+
+ul.Project-list {
+    list-style-type: symbols("❖");
+}
+
+img.img-diam {
+    position: relative;
+    left: 19px;
+    top: 5px;
+}
+
+.anchor {
+    color: black;
+}
+
+.project-infor {
+    padding-left: 75px;
+}
+
+a.font-increase {
+    font-size: 22px;
+}
+
+img.img-diam2 {
+    position: relative;
+    left: 19px;
+    top: 22px;
+}
+
+.education-inform {
+    padding-left: 75px;
+}
